@@ -1,0 +1,71 @@
+
+body
+{
+    background-color:#EBF1FC;
+    /* font-family: 'Source Serif Pro', serif; */
+}
+
+h1{
+
+    color: #175AE0;
+    
+}
+
+hr
+{
+    color: #FB546C;
+}
+
+.board
+{
+    color:black;
+    font-weight: 600;
+}
+
+.clue
+{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+}
+
+.code
+{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.my-sixth-sense
+{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 600;
+    color: black;
+}
+
+.box
+{
+    border: 2px solid #175AE0;
+    border-radius: 3px;
+    margin: 2px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: 1.5rem;
+    width: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
